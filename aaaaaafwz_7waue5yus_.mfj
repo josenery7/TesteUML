@@ -1,0 +1,33 @@
+{
+	"_type": "EdgeLabelView",
+	"_id": "AAAAAAFWZ+7WaUe5yUs=",
+	"_parent": {
+		"$ref": "AAAAAAFWZ+7WaEezUmM="
+	},
+	"model": {
+		"$ref": "AAAAAAFWZ+7WZ0ew5pk="
+	},
+	"visible": false,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 434,
+	"top": 223,
+	"width": 0,
+	"height": 13,
+	"autoResize": false,
+	"alpha": -0.5235987755982988,
+	"distance": 25,
+	"hostEdge": {
+		"$ref": "AAAAAAFWZ+7WaEezUmM="
+	},
+	"edgePosition": 2,
+	"underline": false,
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5
+}
