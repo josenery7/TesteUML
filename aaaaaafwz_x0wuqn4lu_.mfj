@@ -1,0 +1,9 @@
+{
+	"_type": "UMLModel",
+	"_id": "AAAAAAFWZ+X0WUQn4lU=",
+	"_parent": {
+		"$ref": "AAAAAAFWZ+PpA0QmFUw="
+	},
+	"name": "Model1",
+	"visibility": "public"
+}

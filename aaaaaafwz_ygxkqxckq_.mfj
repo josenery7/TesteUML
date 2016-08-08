@@ -1,0 +1,25 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFWZ+YGxkQxCKQ=",
+	"_parent": {
+		"$ref": "AAAAAAFWZ+YGxUQvYEA="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;1",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 405,
+	"top": 167,
+	"width": 40,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "Class1",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5
+}

@@ -1,0 +1,65 @@
+{
+	"_type": "UMLAssociationView",
+	"_id": "AAAAAAFWZ+YzMUSCrBc=",
+	"_parent": {
+		"$ref": "AAAAAAFWZ+X0WkQo9HU="
+	},
+	"model": {
+		"$ref": "AAAAAAFWZ+YzLkR+jTI="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"head": {
+		"$ref": "AAAAAAFWZ+YGxEQuov0="
+	},
+	"tail": {
+		"$ref": "AAAAAAFWZ+YQGERXYbA="
+	},
+	"lineStyle": 1,
+	"points": "331:375;413:205",
+	"stereotypeDisplay": "label",
+	"showVisibility": true,
+	"showProperty": true,
+	"nameLabel": {
+		"$ref": "AAAAAAFWZ+YzMkSDZDc="
+	},
+	"stereotypeLabel": {
+		"$ref": "AAAAAAFWZ+YzMkSEMAI="
+	},
+	"propertyLabel": {
+		"$ref": "AAAAAAFWZ+YzM0SFvTA="
+	},
+	"showMultiplicity": true,
+	"showType": true,
+	"tailRoleNameLabel": {
+		"$ref": "AAAAAAFWZ+YzM0SGD6g="
+	},
+	"tailPropertyLabel": {
+		"$ref": "AAAAAAFWZ+YzM0SHheA="
+	},
+	"tailMultiplicityLabel": {
+		"$ref": "AAAAAAFWZ+YzM0SIBQg="
+	},
+	"headRoleNameLabel": {
+		"$ref": "AAAAAAFWZ+YzM0SJFf8="
+	},
+	"headPropertyLabel": {
+		"$ref": "AAAAAAFWZ+YzM0SKId4="
+	},
+	"headMultiplicityLabel": {
+		"$ref": "AAAAAAFWZ+YzM0SLN7k="
+	},
+	"tailQualifiersCompartment": {
+		"$ref": "AAAAAAFWZ+YzM0SM+KI="
+	},
+	"headQualifiersCompartment": {
+		"$ref": "AAAAAAFWZ+YzNESN9gI="
+	}
+}

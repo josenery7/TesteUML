@@ -1,0 +1,24 @@
+{
+	"_type": "UMLQualifierCompartmentView",
+	"_id": "AAAAAAFWZ+YzNESN9gI=",
+	"_parent": {
+		"$ref": "AAAAAAFWZ+YzMUSCrBc="
+	},
+	"model": {
+		"$ref": "AAAAAAFWZ+YzL0SAVTU="
+	},
+	"visible": false,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 0,
+	"top": 0,
+	"width": 10,
+	"height": 10,
+	"autoResize": false
+}
